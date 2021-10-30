@@ -2,13 +2,13 @@
 ## 🥀ぉ [𝘸𝘦𝘣𝘴𝘪𝘵𝘦](https://tekish.wtf "website") ぇ🖤
 ```diff
 - languages:
-+ c++, c#, lua, js
+! c++, c#, lua, js
 
-! software:
-- vs19, vsc, sublime text, mysql-wb
+- software:
+! vs19, vsc, sublime text, mysql-wb
 
-+ socials:
+- socials:
 ! twitter.com/0x34b
-- reddit.com/u/XTekishX
-+ Tekish#6316
+! reddit.com/u/XTekishX
+! Tekish#6316
 ...
