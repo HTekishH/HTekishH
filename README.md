@@ -12,5 +12,6 @@
 
 - current project:
 ! EasyPC
+```
 
 ![image](https://media.discordapp.net/attachments/905840816013066260/926300508333953054/FTS.png)
