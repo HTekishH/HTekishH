@@ -1,4 +1,5 @@
 # 🖤ぅ 𝘵𝘦𝘬𝘪𝘴𝘩 に🥀
+![image](https://media.discordapp.net/attachments/905840816013066260/926301342316777493/FTS.gif)
 ```diff
 - languages:
 ! c++, c#, lua, js
@@ -13,5 +14,3 @@
 - current project:
 ! EasyPC
 ```
-
-![image](https://media.discordapp.net/attachments/905840816013066260/926300508333953054/FTS.png)
