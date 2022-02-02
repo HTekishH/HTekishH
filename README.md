@@ -10,7 +10,7 @@
 - socials:
 ! twitter.com/0x34b
 ! Tekish#2009
-! https://tekish.wtf
+! tekish.wtf
 
 - current project:
 ! EasyPC
