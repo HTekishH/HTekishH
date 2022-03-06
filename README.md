@@ -13,5 +13,5 @@
 ! tekish.wtf
 
 - current project:
-! EasyPC
+! nothing
 ```
