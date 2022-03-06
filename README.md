@@ -9,7 +9,7 @@
 
 - socials:
 ! twitter.com/0x34b
-! Tekish#2009
+! Tekish#7259
 ! tekish.wtf
 
 - current project:
